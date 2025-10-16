@@ -1,0 +1,16 @@
+These are my friends!
+Elie
+is friend number 1
+Hasita
+is friend number 2
+Juhi
+is friend number 3
+Jon
+is friend number 4
+Lu
+is friend number 5
+Caroline
+is friend number 6
+Shari
+is friend number 7
+Total Number of Friends: 7
